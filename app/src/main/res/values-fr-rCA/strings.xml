@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BBCArticleReader</string>
+    <string name="yes">oui</string>
+    <string name="no">no</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="help_title">Aidez-Moi!</string>
+    <string name="help_message">Cliquez sur l\'article pour afficher les informations, appuyez longuement sur l\'article pour enregistrer ou supprimer l\'article des favoris.</string>
+    <string name="help_confirm">Bien recu</string>
+    <string name="already_fav">Article is already a favourite, go to favourites to view and manage articles!</string>
+    <string name="fav_ques">Ajouter l\'article aux favoris?</string>
+    <string name="fav_added">Article ajouté aux favoris</string>
+    <string name="delete_prompt">FAVORIS</string>
+    <string name="deleteIt">EFFACER</string>
+    <string name="saveIt">ARRÊT</string>
+    <string name="deleteText">Vous êtes sur le point de supprimer</string>
+    <string name="app_home">Accueil</string>
+    <string name="favourites">Favoris</string>
+    <string name="onDelete">L\'article a été supprimé</string>
+    <string name="undo">Annuler</string>
+    <string name="hello">Salut</string>
+    <string name="logOut">Se déconnecter</string>
+    <string name="usernameEnter">Saisissez votre nom d\'utilisateur:</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="enterButton">Connexion</string>
+    <string name="thanks">Merci d\'utiliser mon application !</string>
+    <string name="account">Compte</string>
+    <string name="feed">Fil d\'actualité</string>
+    <string name="version">Version 1.0</string>
+    <string name="title">"Titre: "</string>
+    <string name="date">Date: </string>
+    <string name="link">"Lien: "</string>
+    <string name="description">Description: </string>
+</resources>

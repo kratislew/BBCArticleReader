@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/helpButton"
+        android:title="@string/help_title"
+        android:icon="@drawable/helpicon"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/home"
+        android:title="@string/app_home"
+        android:icon="@drawable/homeicon"
+        android:orderInCategory="0"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/feed"
+        android:title="@string/feed"
+        android:icon="@drawable/acticon"
+        android:orderInCategory="25"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/fav"
+        android:title="@string/favourites"
+        android:icon="@drawable/favicon"
+        android:orderInCategory="30"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/acc"
+        android:title="@string/account"
+        android:icon="@drawable/accicon"
+        android:orderInCategory="50"
+        app:showAsAction="ifRoom"/>
+
+</menu>

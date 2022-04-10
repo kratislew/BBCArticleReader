@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BBCArticleReader</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="help_title">HELP!</string>
+    <string name="help_message">Click any article to view information on article, long press on any article to save or delete article from favourites!</string>
+    <string name="help_confirm">Roger that!</string>
+    <string name="already_fav">Article is already a favourite, go to favourites to view and manage articles!</string>
+    <string name="fav_ques">Add Article to Favourites?</string>
+    <string name="fav_added">Article added to favourites!</string>
+    <string name="delete_prompt">FAVOURITES</string>
+    <string name="deleteIt">DELETE</string>
+    <string name="saveIt">DON\'T DO IT</string>
+    <string name="deleteText">You are about to delete</string>
+    <string name="app_home">Home</string>
+    <string name="favourites">Favourites</string>
+    <string name="onDelete">Article has been deleted</string>
+    <string name="undo">Undo</string>
+    <string name="hello">Hello</string>
+    <string name="logOut">Log Out</string>
+    <string name="usernameEnter">Enter Username:</string>
+    <string name="username">Username</string>
+    <string name="enterButton">Login</string>
+    <string name="thanks">Thank you for using my app! I hope you found all the news you could want</string>
+    <string name="account">Account</string>
+    <string name="feed">Feed</string>
+    <string name="version">Version 1.0</string>
+    <string name="title">Title: </string>
+    <string name="date">Date: </string>
+    <string name="link">Link: </string>
+    <string name="description">Description: </string>
+</resources>
