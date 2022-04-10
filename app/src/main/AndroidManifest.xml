@@ -21,7 +21,7 @@
         <activity
             android:name=".BBCFeed"
             android:exported="false"
-            android:label="@string/app_home"/>
+            android:label="@string/feed"/>
         <activity
             android:name=".AccountLogin"
             android:exported="false"
